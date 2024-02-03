@@ -1,4 +1,4 @@
-## LANDING PAGE - STORE CELPHONE
+## LANDING PAGE - PORTAFOLIO SIMPLE
 Proyecto elaborado en HTML y CSS, como practica en la creación de páginas web. Se utiliza la guía de la youtuber Irina Delgado
 
 Esta es la fuente del proyecto original
